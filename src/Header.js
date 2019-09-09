@@ -1,10 +1,9 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
-export default function Header(props){
+export default function Header(){
     
     return (<header>
-           <h1>ELF Computing | Laptops</h1>
-         </header>)
-    
+            <h1>ELF Computing | Laptops</h1>
+            </header>);
+
 }
